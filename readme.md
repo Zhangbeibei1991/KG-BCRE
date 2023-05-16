@@ -101,7 +101,7 @@ Note: This process depends on a tool called ***openke**. The detailed guidance c
 Also, the construction of graph refer to the project: \
 https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction
 
-### 2.6 Converting the scalable Graph into a tensor Graph and Generating the Input Data 
+### 2.6 Converting the Scalable Graph into a Tensor Graph and Generating the Input Data 
 
 python spacy-step-6.py -task_name task_name
 
