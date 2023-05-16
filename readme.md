@@ -31,7 +31,7 @@ GPU: RTX 3090(24GB) * 1
 
 ### 2.1 Knowledge Discovery from context using UMLS
 
-Note: you should download UMLS (ours version: 2020AA) knowledge base from website: https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html
+Note: you should download UMLS (our version: 2020AA) knowledge base from website: https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html
 
 According to guidance of installation in UMLS, you need to install UMLS and obtain the files including:
 
