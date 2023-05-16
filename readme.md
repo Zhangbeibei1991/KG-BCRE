@@ -83,7 +83,7 @@ python umlsbase-step-2 -task_name task_name
 
 python umlsgraph-step-3.py -task_name task_name
 
-Note: this graph including the Token, CUI, and STY nodes. This fact means that the number of nodes is greater than the number of tokens, which is very different with the traditional dependency knowledge
+Note: This graph including the Token, CUI, and STY nodes. This fact means that the number of nodes is greater than the number of tokens, which is very different with the traditional dependency knowledge
 
 ### 2.4/5 Generating Triplets of Knowledge and Train Graph Embeddings of CUIs and STYs 
 
@@ -91,7 +91,7 @@ python triplets-step-4.py -task_name task_name
 
 python train_kg-step-5.py -task_name task_name
 
-Note: this process depends on a tool called ***openke**. The detail guidance can be found in: https://github.com/thunlp/OpenKE.
+Note: This process depends on a tool called ***openke**. The detailed guidance can be found in: https://github.com/thunlp/OpenKE.
 
 Also, the construction of graph refer to the project: \
 https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction
