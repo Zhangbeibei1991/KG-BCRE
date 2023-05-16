@@ -27,6 +27,11 @@ CPU: 12 vCPU Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz
 
 GPU: RTX 3090(24GB) * 1
 
+### 1.3 Sources of Data 
+
+Hpowell: https://github.com/myedibleenso/this-before-that \
+Biocause: http://www.nactem.ac.uk/biocause/
+
 ## 2. Preprocess for datasets
 
 ### 2.1 Knowledge Discovery from context using UMLS
