@@ -4,7 +4,6 @@ import datasets.biocause.spacies.create_files as create_files
 from datasets.biocause.spacies.document import Document, EntityMention, TriggerMention, Event
 
 # parse the biocause dataset using scispacy
-# python=3.6.13
 # spacy=3.0.7
 # scispacy=0.4.0
 class BioCausePreprocessor:
